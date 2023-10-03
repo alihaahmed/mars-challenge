@@ -1,4 +1,4 @@
-# Mars Web-Scraping and Data Analysis Project
+# Mars Web Scraping and Data Analysis Project
 Used knowledge of HTML elements and attributes to extract/scrape various types of information from [Mars News](https://static.bc-edx.com/data/web/mars_news/index.html) and [Mars Temperature Data](https://static.bc-edx.com/data/web/mars_facts/temperature.html) sites via automated browsing with Splinter and HTML parsing with Beautiful Soup. 
 
 ## Part 1: Scrape Titles and Preview Text from Mars News Articles
